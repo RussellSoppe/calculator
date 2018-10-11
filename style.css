@@ -1,0 +1,64 @@
+body{
+	background-image: linear-gradient(to right, #AC7140, #FFA961, #AC7140);
+}
+
+h1{
+	display: flex;
+	justify-content: center;
+}
+h2{
+	color: blue;
+	display: flex;
+	justify-content: center;
+}
+
+textarea {
+	height: 20px;
+	width: 420px;
+	background-image: linear-gradient(to right, #50E6E6, white, white, white, white, white, white, white, white, #50E6E6 );
+	/*display: block;*/
+	resize: none;
+	
+}
+
+button {
+	height: 60px;
+	width: 100px;
+	color: black;
+	background-color: pink;
+	/*padding: 5px 10px 5px 30px;*/
+
+}
+
+#calcbttnpdtext{
+
+font-size:  20px;
+
+}
+
+#calcbttnclr {
+	height: 60px;
+	width: 424px;
+	color: black;
+	background-image: linear-gradient(to right, hotpink, pink, hotpink);
+	padding: 5px 10px 5px 5px;
+}
+
+#calccard {
+	background-image: linear-gradient(to right, #39A3A3, #50E6E6, #39A3A3);
+	height: auto;
+	width: auto;
+	padding: 5px 5px 5px 5px;
+
+}
+
+#calculator {
+	display: flex;
+	justify-content: center;
+	
+}
+
+#buttonsc {
+	display: flex;
+	justify-content: center;
+}
